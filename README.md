@@ -1,2 +1,2 @@
 # Yazilim Koclugu Oyun Gelistirme Dersleri
- Unity Oyun Motoru Kullanarak Yaptıgım Projeler
+ Yazılım Koçluğu Programı kapsamında işlenen Unity Oyun Geliştirme derslerinde işlenen derslerin haftalık güncellendiği proje deposudur.
