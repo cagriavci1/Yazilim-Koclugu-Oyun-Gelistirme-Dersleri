@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Zemin
+  - "Ba\u015Far\u0131l\u0131Engel"
   layers:
   - Default
   - TransparentFX
